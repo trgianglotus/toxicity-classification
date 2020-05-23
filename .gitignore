@@ -4,3 +4,4 @@ data/
 related-works/
 jigsaw-toxic-comment-classification-challenge.zip
 results/
+__pycache__/
